@@ -1,9 +1,12 @@
 # weather_detector
 guided by shapeAi in an bootcamp , helps to utilise APIs
 
+**Program  =>> weather_detector (program) //take inpute
+               =>> give weather report at Weather_report.txt file as output
+               
+               
 
-
-an example "to understand coad easly"
+//////AN EXAMPLE "to understand coad easly"
 =>
  import requests  ##to bring prebuild fun to request , interect with websits
  

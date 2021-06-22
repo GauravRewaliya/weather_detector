@@ -1,8 +1,9 @@
 # weather_detector
 guided by shapeAi in an bootcamp , helps to utilise APIs
 
-**Program  =>> weather_detector (program) //take inpute......................................'\n'
-               =>> give weather report at Weather_report.txt file as output
+#--#**Program  =>> weather_detector (program) //take inpute
+
+ #--#             =>> give weather report at Weather_report.txt file as output
                
                
 

@@ -1,7 +1,8 @@
 # weather_detector
 guided by shapeAi in an bootcamp , helps to utilise APIs
-https://youtu.be/rKqrn_4TV1g
+for more information https://youtu.be/rKqrn_4TV1g and its dicription link for more notes
 
+::::this proj info::::
 #--#**Program  =>> weather_detector (program) //take inpute
 
  #--#             =>> give weather report at Weather_report.txt file as output
